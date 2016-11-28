@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+            "ID": "1",
+            "roleName":"优质商家1"
+      },
+      {
+            "ID": "2",
+            "roleName":"优质商家2"
+      },
+      {
+            "ID": "3",
+            "roleName":"优质商家3"
+      },
+      {
+            "ID": "4",
+            "roleName":"优质商家4"
+      }
+    ],
+    "iTotalRecords": 52,
+    "iTotalDisplayRecords": 52
+}
