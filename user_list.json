@@ -1,0 +1,122 @@
+{
+    "data": [
+      {
+            "id": "1",
+            "userName":"优质商家1",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+      },
+      {
+            "id": "2",
+            "userName":"优质商家2",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "3",
+            "userName":"优质商家3",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "4",
+            "userName":"优质商家4",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "2",
+            "userName":"优质商家2",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "3",
+            "userName":"优质商家3",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "4",
+            "userName":"优质商家4",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "2",
+            "userName":"优质商家2",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "3",
+            "userName":"优质商家3",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "4",
+            "userName":"优质商家4",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "2",
+            "userName":"优质商家2",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "3",
+            "userName":"优质商家3",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      },
+      {
+            "id": "4",
+            "userName":"优质商家4",
+            "contact" : "王小姐",
+            "phone" : "136022888888",
+            "addDate" : "2016/3/12",
+            "status" : "正常"
+
+      }
+    ],
+    "iTotalRecords": 52,
+    "iTotalDisplayRecords": 52
+}
